@@ -52,7 +52,7 @@ header form {
 
 .content h1 {
   position: relative;
-  background: -webkit-linear-gradient(135deg, rgba(52, 69, 221, 0.842) 10%, #f35a2bec 100%);
+  background: -webkit-linear-gradient(135deg, rgba(8, 8, 8, 0.842) 50%, #30a021e5 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-transform: uppercase;
@@ -66,7 +66,7 @@ h1::before {
   left: 0;
   width: 0;
   height: 60px;
-  background: -webkit-linear-gradient(135deg, rgba(52, 69, 221, 0.842) 10%, #f35a2bec 100%);
+  background: -webkit-linear-gradient(135deg, rgba(8, 8, 8, 0.842) 10%, #3cb42ce5 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border-right: 2px solid transparent;
@@ -143,31 +143,32 @@ h1::before {
 .social span {
   margin-top: 10px;
   font-weight: 600;
-  font-size: 28px;
+  font-size: 24px;
   background: -webkit-linear-gradient(135deg, rgba(221, 120, 52, 0.842) 10%, #dd3466ec 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .img1 {
-  margin-top: 3px;
-  width: 30px;
-  height: 30px;
+  margin-top: 5px;
+  width: 24px;
+  height: 22px;
 }
 
 .img2 {
-  width: 40px;
-  height: 40px;
+  margin-top: 3px;
+  width: 36px;
+  height: 32px;
 }
 
 .img3 {
-  width: 45px;
-  height: 40px;
+  width: 39px;
+  height: 35px;
 }
 
 .img4 {
-  width: 37px;
-  height: 37px;
+  width: 34px;
+  height: 32px;
 }
 
 .popup-overlay {
